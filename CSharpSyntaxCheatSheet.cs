@@ -6,7 +6,7 @@ s.Substring(int startIndex, int Length)
 Char.IsDigit(char c)
 
 
-Dictionary
+//Dictionary
 var dict = new Dictionary<int, int>();
 dict.Add(key, value);
 
@@ -28,22 +28,22 @@ Push()
 Pop()
 
 
-List:
+//List:
 IList list = new List<int>();
 list.Add(2);
 list.Insert(index, element);
 List.
 
-Array
+//Array
 Array.Sort(arr) 
 arr.OrderByDescending(c => c).ToArray(); 
 
 
-StringBuilder
+//StringBuilder
 Append(string s)
 Append(char c)
 
-LinkedList
+//LinkedList
 RemoveFirst()
 RemoveLast()
 Node AddFirst(node)
@@ -63,7 +63,7 @@ Sum(out G);
 Public int Sum(out int G) {
 }
 
-Ref:
+//Ref:
 string str = "Geek"; 
 SetValue(ref str); 
 static void SetValue(ref string str1) {
